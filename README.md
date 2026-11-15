@@ -3,7 +3,7 @@
 A real-time GPU monitoring application for Linux (NVIDIA) and macOS (Apple Silicon) built with Python and PyQt6.
 
 ![Linux GPUvu](./linux.png "Linux GPUvu Screenshot")
-![macOS GPUvu](./Mac-GPUvu.png "macOS GPUvu Screenshot")
+![macOS GPUvu](./MacGPUvu.png "macOS GPUvu Screenshot")
 
 ## Features
 
