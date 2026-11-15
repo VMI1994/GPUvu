@@ -26,7 +26,7 @@ A real-time GPU monitoring application for Linux (NVIDIA) and macOS (Apple Silic
 
 ### macOS Version
 
-![macOS GPUvu](./Mac-GPUvu.png "macOS GPUvu Screenshot")
+![macOS GPUvu](./MacGPUvu.png "macOS GPUvu Screenshot")
 
 **Features:**
 - Apple Silicon GPU monitoring with `apple-smi`
