@@ -39,26 +39,27 @@ A real-time GPU monitoring application for Linux (NVIDIA) and macOS (Apple Silic
 ### Linux (NVIDIA)
 
 ```
-$>git clone https://github.com/VMI1994/GPUvu.git
-$>cd GPUvu
-$>chmod +x 
-e binary
-pyinstaller --clean GPUvu.spec
-./dist/GPUvu
+Download the binary using the torrent file gpuvu.torrent
+
+# Make binary executable
+$>chmod +x gpuvu
+
+# Run it or double click the icon
+$>./gpuvu
+
 ```
 
 ### macOS (Apple Silicon)
 
 ```bash
-# Install dependencies
-pip install PyQt6 pyinstaller apple-smi Pillow
+Download the binary using the torrent file MacGPUvu.torrent
 
-# Run the application
-python3 MacGPUvu.py
+# Make binary executable
+$>chmod +x MacGPUvu
 
-# Or build the binary
-pyinstaller --clean GPUvu.spec
-./dist/MacGPUvu
+# Run it or double click the icon
+$>./MacGPUvu
+
 ```
 
 ## Architecture
