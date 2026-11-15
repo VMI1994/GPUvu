@@ -2,8 +2,8 @@
 
 A real-time GPU monitoring application for Linux (NVIDIA) and macOS (Apple Silicon) built with Python and PyQt6.
 
-![Linux GPUvu](./images/linux-gpuvu.png "Linux GPUvu Screenshot")
-![macOS GPUvu](./images/mac-gpuvu.png "macOS GPUvu Screenshot")
+![Linux GPUvu](./linux.png "Linux GPUvu Screenshot")
+![macOS GPUvu](./Mac-GPUvu.png "macOS GPUvu Screenshot")
 
 ## Features
 
@@ -16,7 +16,7 @@ A real-time GPU monitoring application for Linux (NVIDIA) and macOS (Apple Silic
 
 ### Linux Version
 
-![Linux GPUvu](./images/linux-gpuvu.png "Linux GPUvu Screenshot")
+![Linux GPUvu](./linux.png "Linux GPUvu Screenshot")
 
 **Features:**
 - NVIDIA GPU monitoring with `nvidia-smi`
@@ -26,7 +26,7 @@ A real-time GPU monitoring application for Linux (NVIDIA) and macOS (Apple Silic
 
 ### macOS Version
 
-![macOS GPUvu](./images/mac-gpuvu.png "macOS GPUvu Screenshot")
+![macOS GPUvu](./Mac-GPUvu.png "macOS GPUvu Screenshot")
 
 **Features:**
 - Apple Silicon GPU monitoring with `apple-smi`
